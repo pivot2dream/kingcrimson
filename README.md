@@ -1,10 +1,6 @@
 kingcrimson
 ===========
 
-# Description
-
-Fulfilled criteria
- 
 - Create a table with the following columns: band name, album title, number of discs, release date, recording date, personnel
 - The album title should link to the provided wiki page
 - Any missing data points should be represented with the string ‘—‘
@@ -20,23 +16,24 @@ Fulfilled Constraints
  
 - The application has to work in the latest versions of Chrome, Firefox, Safari, and IE11
 
-# To Run
+#### To Run
 
 - Simply clone the repo and open index.html in a webbrowser
 
-### OR ###
+##### OR 
 
 - visit http://www.aaronduchateau.com/music_cleaned/
 
-# Technolgoies Used 
+#### Technolgoies Used 
 - jQuery: good include for dom manipulation, animation, and other common tasks
 - jQuery-ui: a default include for drag and drop
-- dragtable.js: Expands on Jquery UI for column sorting
+- dragtable.js: expands on jQuery UI for column sorting
 - sortelements.js: tiny library that aids in a b sorting
 - bootstrap: good for responsiveness, modals, buttons, etc. A default include
-- helper.js: This is the primary chunk of code i wrote for core functionality
-- qunit.js: A client side testing library. I had never used it before and wanted to play with it
-- tests.js: The tests I wrote
+- helper.js: this is the primary chunk of code i wrote for core functionality
+- qunit.js: a client side testing library. I had never used it before, and wanted to play with it
+- tests.js: the tests I wrote, utilizing qunit
+- backstretch.js: Not needed, similiar effect can be done with css. I just think it looks cool :)
 
 
 
