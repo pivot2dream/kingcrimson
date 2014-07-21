@@ -24,7 +24,7 @@ Fulfilled Constraints
 
 - visit http://www.aaronduchateau.com/music_cleaned/
 
-#### Technolgoies Used 
+#### JS Libraries Used 
 - jQuery: good include for dom manipulation, animation, and other common tasks
 - jQuery-ui: a default include for drag and drop
 - dragtable.js: expands on jQuery UI for column sorting
